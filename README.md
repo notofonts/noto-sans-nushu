@@ -2,6 +2,7 @@
 
 (image of Nüshu script original calligraphy - not the brush calligraphy)
 
+
 > note: to avoid any confusion in words meaning, I will refer here : 
 > *Chinese* as Chinese spoken language.
 > *Hanzi* as Chinese written characters (汉字).
@@ -9,8 +10,9 @@
 > *Tuhua* as local dialects.
 
 
-Introduction 
-============
+
+### Introduction 
+
 
 In these modern times, literacy is something that we would take for granted, and for (almost) everyone accross the globe. All along human history, writing systems play an essential role to its evolution. The knowledge of writing and reading is something that we imagine accessible to all in a utopic world, with no barriers, to encourage the advancements of societies… But it obviously and unfortunately hasn’t been this way. There must have been solutions through the ages and around the world created and developed firstly from a practical need, but very few of them come to the general knowledge or under the spotlight. 
 
@@ -18,8 +20,9 @@ Until very recently though, this happened to one of them: Nüshu writing system.
 
 
 
-01.What and Where
-==================
+### 01.What and Where
+
+
 
 Nüshu is the only writing system developed and used exclusively by women in History in the world (as we know it so far... no one knows what is still awaiting to be discovered...) in the south west region of Hunan (湖南省) in China.
 
@@ -46,8 +49,10 @@ These examples show different calligraphic styles of a same script: Hanzi.
 Nüshu is not to be put in the same basket as the other calligraphy scripts, as it is not the visual transcription of Chinese language (so to speak), but one of the native dialects in the area shown on the map above. The 's' is for the several dialects, locally called *Tuhua* (土话, literally 'land language'), spoken by the inhabitants (both women and men) of many villages, towns and cities in Jiangyong county.
 
 
-02.When
-========
+
+### 02.When
+
+
 
 Even until nowadays it is hard to determine with certainty a date of origins for Nüshu, as there are very few old documents with this script or traces of its beginnings remaining (see in *Chapter 06. How is it used* to know why). 
 
@@ -60,8 +65,10 @@ But, it is said by most (serious) researchs that Nüshu finds its origins around
 (image of the coin)
 
 
-03.Why 
-=======
+
+### 03.Why 
+
+
 
 In a feodal China, women were not allowed to learn or write, a privilege given to the imperial family, nobility, administration and academics (exclusively men, apart from a handful of high rank women in the imperial family…). Literacy in China was at very low rate, for both men and women (literacy rates for women was very likely even lower than for men) until the 1950’s only! (see [China’s Long — but Uneven — March to Literacy](https://www.nytimes.com/2001/02/12/news/chinas-long-but-uneven-march-to-literacy.html) by Ted Plafker, New York Times, 2001). 
 
@@ -74,8 +81,10 @@ Family and friendship are very cherished bonds, going from mother and daughters 
 In this context, women created on parallel world a creative way full of practical sense to communicate between each other despite distances. They kept the script evolving through times, using it in many ways and ended up creating a culture of their own, aside the culture of men. This script is an wonderful example of creativity resulting from a social separation between men and women, and at the same time a strong solution to a problem: a missing connexion with cherished people and more. It shows also the character of the women who created, developed and used, still use nowadays, cultivating a strong personality with pride and calling themselves ‘gentlemen ladies’ (君子女) who have attitude, self-cultivation, spirit and interest (气质，修养，性情，志趣).
 
 
-04.The look
-============
+
+### 04.The look
+
+
 
 The mysterious look of the script for people unfamiliar with it created stories and legends or various degrees of craziness (language of women spies, witches, language from gods or supernatural beings...). 
 But, more seriously, it is obvious that women who created and developed Nüshu got inspiration from Hanzi shapes and features (they used what they could see around them). Many Nüshu characters are even sort of distorted Hanzi characters, along with many other non-Hanzi related glyphs at all.
@@ -105,8 +114,10 @@ Nüshu texts are set and read just like traditional Chinese: written from top to
 These features of Nüshu characters give a text written in this script a surprisingly ‘feminine’ appearance, especially when the curves are delicately traced, sometimes exaggerated for an even more elegant feel when compared to squarish and blocky ‘masculine’ Hanzi characters (does a style of writing can bear feminity, masculinity or even neutrality would be an interesting topic of discussion…). 
 
 
-05.How it works 
-================
+
+### 05.How it works 
+
+
 
 Nüshu has been created and used to phonographically transcribe local dialects, commonly called there as *Tuhua*. Its system works like Japanese Hiragana or Katakana, when one glyph can be used to transcribe several meanings but with same or similar sound in the dialect. This specificity made the set of characters needed and used drastically smaller than ideographic Hanzi, therefore learning to write Nushu is much more simple and accessible to Jiangyong women who didn’t have access to any education.
 
@@ -119,8 +130,10 @@ A text written in Nüshu can be understood only if the reader knows the dialect 
 Besides all the dialects (there have never been a precise number of how many dialects were using Nüshu, as some of them are already extinct), the system developed with Nüshu allowed a parallel language called *Yayan* (雅言 - ‘beautiful language’) or Jiangyong's sound (江永城关音). Through time, women ended up with a preference for Yayan instead of their own dialect to write down Nüshu texts, teaching this version accross Jiangyong, considering it to sound nicer and more suitable to the script. For women in Jiangyong district, Yayan is considered to be the local official dialect.
 
 
-06.How has it been used
-========================
+
+### 06.How has it been used
+
+
 
 Many legends or stories about the first uses of Nüshu surround the script, but as far as researchers know it from facts and actual documents, it has been mostly used to:
 * send messages and keep connexions between villages, between Sworn Sisters, families…
@@ -140,8 +153,10 @@ Many legends or stories about the first uses of Nüshu surround the script, but 
 Nüshu allowed farmland and mountain village women not only to communicate between each other when they were not allowed to write or read, but also to develop their very own culture. 
 
 
-07.How has it been taught
-==========================
+
+### 07.How has it been taught
+
+
 
 Nüshu has been taught directly from one woman to another(s), generally from mother to daughter(s), without any academic environment or system through the generations. It was very often taught in village halls (歌堂) or at home. Even if there is a common core, each woman or groups of women would bring their own adaptations, styles and preferences to the characters and teach the ones they know to the younger women and girls. 
 To add another layer of complexity, the dialect used in one village can be slightly different in their pronunciation to the one used nearby, which influences the characters used in Nüshu. 
@@ -151,8 +166,10 @@ To add another layer of complexity, the dialect used in one village can be sligh
 These two factors make the standardization of the script very complex and can’t be brought to the same accuracy as Latin script for example. It wouldn’t be quite respectful towards the script’s nature to force it into a static system, but very recently local women who are still teaching Nüshu are very much aware of the importance of keeping their knowledge aligned in the entire Jiangyong area, to keep their culture alive, as united as possible both in their history and in their population.
 
 
-08.“Discovery” of Nüshu script
-===============================
+
+### 08.“Discovery” of Nüshu script
+
+
 
 Nüshu has always been used openly in the villages. Men could see the script used by women around them without secret but it never caught their attention as they had Hanzi already, and also because it is used by women, and women of a very small area… Until recently!
 
@@ -165,8 +182,10 @@ At that time, women who learned and used Nüshu in the original way were already
 (portrait of Yang Huanyi)
 
 
-09.How does Nüshu live nowadays? 
-=================================
+
+### 09.How does Nüshu live nowadays? 
+
+
 
 Nüshu script existence is not so much relevant anymore once Mandarin and education has been expanded across the entire country, accessible to everyone. 
 
@@ -198,8 +217,10 @@ Digital presence of Nüshu will definitely play a significant part in the preser
 The only focus point to care about then would be to keep in a right balance both tradition and modernity to avoid any loss of its authenticity. Which will be quite challenging, as many people and companies see the touristic attractiveness rather than the cultural legacy… 
 
 
-10.Nüshu in Noto Sans family 
-=============================
+
+### 10.Nüshu in Noto Sans family 
+
+
 
 As already mentioned before (in *Chapter 04. The look*), I decided to focus on a sans serif version for Nüshu in its digitized version rather than a serif to be as close to the script’s original form as possible. What could be interpreted as *serif* with Nüshu would be with contrast only. From the last decades, women who are still writing Nüshu promote it beyond Jiangyong county using calligraphic brushes instead of pens (they gave up using bamboo or wood sticks quite some time ago already…), allowing various degrees of contrast in the characters strokes with more or less exaggerated lenghts. Even if this style or writing appeared in very recent years, these calligraphies show an enhanced characteristic of Nüshu glyphs, adding up both writer’s personality and the elegance and finesse that is in its nature, placing the script on an artistic level, just like Hanzi calligraphy.
 
@@ -211,9 +232,8 @@ My connection to the script is very thin: being Chinese (and a woman) doesn’t 
 , feedbacks, opinions and discussions are also very much welcome! 🙃
 
 
-11.Going there
-===============
 
+### 11.Going there
 There are unfortunately almost no English versions or translation as of now, but there is still possibility to reach a local English-speaking guide:
 * [Nüshu script Museum](https://baike.baidu.com/item/%E5%A5%B3%E4%B9%A6%E7%94%9F%E6%80%81%E5%8D%9A%E7%89%A9%E9%A6%86) (女书生态博物馆)
 * Visit [reportage](https://www.mafengwo.cn/i/8686022.html) of a Chinese tourism company
@@ -221,32 +241,28 @@ There are unfortunately almost no English versions or translation as of now, but
 * [Hunan Museum](http://www.hnmuseum.com/) in Changsha, Hunan
 
 
-References
-==========
 
+#### References
 * 女书诗文佳句 / 赵丽明主编 — 北京清华大学出版社，2019 (ISBN: 978-7-302-52810-4) (no English translation)
 * 君子女 / 卢池珠，何裕建， 何跃娟 — 名族出版社，2014 (ISBN: 978-7-105-13465-6) (no English translation)
 * [什么是女书：赵丽明 ⟪传奇女书⟫](http://www.360doc.com/content/16/1112/01/37001590_605778630.shtml), 2016 (no English translation)
 * [Nüshu: from tears to sunshine](https://en.unesco.org/courier/2018-1/nushu-tears-sunshine), by Cheng Xiaorong, 2018
 
 
-Other
-=====
 
+#### Other
 * [Online Nushu Dictionary](https://nushuscript.org/en-US/), 2018-2020
 * [Nvshu Sans, Designing a Heiti Font for Nüshu, and Ancient Chinese Women’s Script](https://www.chelsywu.com/work/nvshusans), by Chelsy Wu
 * [What the world’s fascination with a female-only Chinese script says about cultural appropriation](https://qz.com/1271372/what-the-worlds-fascination-with-nushu-a-female-only-chinese-script-says-about-cultural-appropriation/), by Ilaria Maria Sala for Quartz, 2018
 
 
-Thanks to:
-----------
 
+#### Thanks to:
 Pr Zhao Liming 赵丽明博士, Hu Meiyue 胡美月, Hu Yanyu 胡艳玉 (directions and feedbacks) ✍️ 🔎 🖍 
 Liang Hai 梁海 
 Stephen Nixon (mastering)  👨‍💻
 And of course Google Fonts team! 🙏
 
 
-Google Fonts Noto family website:
----------------------------------
+#### Google Fonts Noto family website:
 [Google Noto Fonts](https://www.google.com/get/noto/)
