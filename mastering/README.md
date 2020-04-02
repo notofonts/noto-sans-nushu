@@ -50,12 +50,8 @@ These should be deleted from the Glyphs source, and the build should be run agai
 ## Tasks
 - [x] set vertical metrics to spec
 - [x] build otf & ttf
+- [x] merge previous `mastering` branch with this one (I made two due to a temporary computer issue)
 - [ ] PR to https://github.com/googlefonts/noto-fonts
-
-
-
-
-
 
 
 I've made `mastering/set-metrics.glyphs.py` to set vertical metrics as required by the document "Noto Font Delivery Requirements."
