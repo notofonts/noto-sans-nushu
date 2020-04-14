@@ -1,2 +1,4 @@
 fontmake
 fonttools
+fontbakery
+gftools
