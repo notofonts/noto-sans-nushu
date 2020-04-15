@@ -1,4 +1,6 @@
-# Noto Sans Nüshu - process and progress
+Noto Sans Nüshu - process and progress
+======================================
+
 
 ## Phase 01 - Introduction
 
