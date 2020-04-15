@@ -42,6 +42,22 @@ source venv/bin/activate # if venv is not already active
 python venv/lib/python3.7/site-packages/fontbakery/commands/check_notofonts.py fonts/NotoSansNushu-Regular.ttf
 ```
 
+## Update noto-source repo
+
+1. Fork https://github.com/googlefonts/noto-source
+2. `git clone` your fork to have a local copy (or `git pull` from the upstream master to update your local copy, if you already have one)
+3. `git checkout -b noto-sans-nushu` to make a new branch and move to it
+4. Move GlyphsApp source into `src/NotoSansNushu`
+5. `git add src/NotoSansNushu` to stage the change
+6. `git commit -m "Update Noto Sans Nushu source"` (change message as needed)
+7. Check if `.DS_Store` files have been created. If they have been, use `git clean -f` to remove uncommitted files.
+8. Push to your remote fork
+9. Pull Request to the noto-source repo
+
+## Update noto-fonts repo
+
+Repeat the above steps, but moving the TTF in `fonts/` to the directory `unhinted/NotoSansNushu` of https://github.com/googlefonts/noto-fonts.
+
 ## Troubleshooting
 
 The build may fail with a traceback ending like this:
