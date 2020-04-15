@@ -86,6 +86,11 @@ I deleted these from the Glyphs source, and that made the build run fine. If the
 
 I've made `source/nushu-glyphsapp-scripts/set-metrics.glyphs.py` to set vertical metrics as required by the document "Noto Font Delivery Requirements."
 
+I also ran the `check-googlefonts` FontBakery checks to see whether any suggested fixes from there would be useful. For this, I added several steps to the build script:
+- `gftools fix-dsig`
+- `gftools fix-gasp`
+- `gftools fix-nonhinting` for "Font enables smart dropout control in "prep" table instructions?"
+
 ## Metadata fixes
 
 Zachary Quinn Scheuren (@punchcutter) helpfully provided a file with Font Info fixes in a comment at https://github.com/googlefonts/noto-source/pull/188. I have copied these updates into the Glyphs source. 
