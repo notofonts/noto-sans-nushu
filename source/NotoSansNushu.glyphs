@@ -445,7 +445,7 @@ value = "Noto is a trademark of Google Inc.";
 },
 {
 name = versionString;
-value = "Version 2.000";
+value = "Version 1.000";
 },
 {
 name = fsType;
@@ -571,10 +571,30 @@ xHeight = 536;
 glyphs = (
 {
 glyphname = .notdef;
-lastChange = "2020-04-15 04:01:08 +0000";
+lastChange = "2020-04-15 16:53:23 +0000";
 layers = (
 {
 layerId = "CFFEBDE4-599A-46B2-9328-D96E42CD9C81";
+paths = (
+{
+closed = 1;
+nodes = (
+"505 0 LINE",
+"505 714 LINE",
+"94 714 LINE",
+"94 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"145 663 LINE",
+"454 663 LINE",
+"454 51 LINE",
+"145 51 LINE"
+);
+}
+);
 width = 600;
 }
 );
