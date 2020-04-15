@@ -3,6 +3,7 @@
 ![Gao YinXian's handwriting](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-presentation/00-GaoYinXian-handwriting.jpg)
 *一岁女，手上珠 (One year girl, hands with pearl) by Gao Yinxian 高银仙 (1902 - 1990)*
 
+*reading time: 15min*
 
 > note: to avoid any confusion in words meaning, I will refer here : 
 > *Chinese* as Chinese spoken language.
