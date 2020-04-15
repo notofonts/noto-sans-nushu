@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Nushu";
-    src: url('fonts/NotoSansNushu02-Regular.ttf') format('ttf');
+    src: url('./fonts/NotoSansNushu-Regular.ttf');
 }
 
 html {
@@ -9,7 +9,6 @@ html {
 
 .unicode-table {
     display: grid;
-    /* grid-template-columns: repeat(13, 1fr); */
     grid-template-columns: repeat(auto-fit, minmax(5rem, 1fr) );
 }
 

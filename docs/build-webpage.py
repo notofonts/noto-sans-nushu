@@ -3,7 +3,7 @@
 
     USAGE:
 
-    python docs/build-webpage.py docs/fonts/NotoSansNushu02-Regular.ttf
+    python docs/build-webpage.py docs/fonts/NotoSansNushu-Regular.ttf docs/index.html
 """
 
 from fontTools.ttLib import TTFont
@@ -11,8 +11,6 @@ import unicodedata
 import sys
 
 fontPath = sys.argv[1]
-
-
 
 def getUnicodeName(c):
     try:
@@ -67,7 +65,7 @@ def main():
     </html>
     """
 
-    path = args.path
+    path = args.indexHtmlPath
     with open(path, 'w') as file:
         file.write(html)
         print('saved to ', str(path)) 
@@ -80,7 +78,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=description)
     parser.add_argument("fontpath",
                         help="The path to a font to build a unicode data table for")
-    parser.add_argument("path",
+    parser.add_argument("indexHtmlPath",
                         help="The path for an html file to build")
 
 
