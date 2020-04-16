@@ -3,14 +3,11 @@
 
     USAGE:
 
-    python docs/build-webpage.py docs/fonts/NotoSansNushu-Regular.ttf docs/index.html
+    python docs/build-webpage.py docs/fonts/NotoSansNushu-Regular.ttf mastering/test-webpage/index.html
 """
 
 from fontTools.ttLib import TTFont
 import unicodedata
-import sys
-
-fontPath = sys.argv[1]
 
 def getUnicodeName(c):
     try:
@@ -30,6 +27,31 @@ def main():
         <title>Nushu Test Page</title>
         <link rel="stylesheet" href="style.css">
     </head>
+    <style>
+    @font-face {
+        font-family: "Nushu";
+        src: url('./fonts/NotoSansNushu-Regular.ttf');
+    }
+    html {
+        font-family: "Nushu", monospace;
+    }
+    .unicode-table {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(5rem, 1fr) );
+    }
+    .unicode-table>div {
+        border: 1px solid #eee;
+        text-align: center;
+        padding: 0.5rem;
+    }
+    .letter-lg {
+        font-size: 2rem;
+        margin-bottom: 0.5rem;
+    }
+    .label {
+        font-size: 0.75rem;
+    }
+    </style>
     <body>        
         <!-- BEGIN CHARSET GRID -->
         <div class="unicode-table">

@@ -37,4 +37,4 @@ rm ${output/".ttf"/"-backup-fonttools-prep-gasp.ttf"}
 # ------------------------------------------------------
 # copy font to web test
 
-cp $output docs/fonts/NotoSansNushu-Regular.ttf
+cp $output mastering/test-webpage/fonts/NotoSansNushu-Regular.ttf
