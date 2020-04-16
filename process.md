@@ -16,12 +16,15 @@ About Nüshu script, besides having no digital presence as (published) fonts yet
 
 I had the chance and opportunity to meet her in person at the university. She generously gave me insights and introduction of Nüshu script specificities from her experience and knowledge of her several decades study. Then, to the region where Nüshu was originally from, and is still used nowadays: Jiangyong county (江永县), at the south west tip of Hunan region, I could get the most proper insights I could hope for and dive into this culture. Jiangyong county is not one of those large and modern cities in China like Shanghai, Beijing or else… It is quite the opposite and requires some motivation to get there (by train, car or bus). But the only fact that a complex thing like a writing system happened in such a remote region, by women on their own without any education, and of course the sightseeing of a rural China, in some villages that kept their personality since several centuries, it is really worth it.
 
-[02-2-ShangGanTang-village.jpg]
-[02-3-ShangGanTang-village.jpg]
+![02-ShangGanTang-village.jpg](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/02-ShangGanTang-village.jpeg)
+![02-2-ShangGanTang-village.jpg](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/02-3-ShangGangTang-village.jpg)
+![02-3-ShangGanTang-village.jpg](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/02-2-ShangGangTang-village.jpg)
+*photos of Shang Gan Tang village 上甘棠村, one of the most representative villages of Jiangyong county, photo by Lisa Huang, 2019.*
 
 Jiangyong is also where local governments invested ressources to build the [Nüshu script Museum](https://baike.baidu.com/item/%E5%A5%B3%E4%B9%A6%E7%94%9F%E6%80%81%E5%8D%9A%E7%89%A9%E9%A6%86) inaugurated in 2004, and encourage the study and promotion of the script as it has a peculiar touristic attractiveness (especially with feminist movements). The museum is now a place fully dedicated to the script, its history, evolution, local women’s life and folklore, with even Nüshu summer classes every year.
 
-[03-nushu-museum.jpg]
+![03-nushu-museum.jpg](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/03-nushu-museum.jpg)
+*entrance of the Nüshu script Museum, near Jiangyong city, photo by Junyu Deng, 2019*
 
 
 ## Phase 02 - Assimilation
@@ -36,24 +39,27 @@ First attempt of digitzed Nüshu glyphs matching Noto Sans Latin and Chinese wit
 
 With the 396 glyphs, they have different constructions and various elements combined in them. But there are strokes and shapes found in common for a large part of the glyphs, and an arrangement of them by similarities or common elements would help making consistent designs through the entire character set. Some of the characters seen on calligraphies or documents are not in the Unicode chart, which is sometimes sad, as there are quite funny ones!
 
-[04-funny-glyphs.jpg]
+![04-funny-glyphs.jpg](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/04-funny-glyphs.jpg)
+*emojis before digital era??*
 
 
 To do the sorting relevant and bring sense to it, I had to think which are the basic shapes or elements in Nüshu, just like how we would take n letter and join it with other similar letters: h, m, r and u. They are presented at the Nüshu script Museum, but many forms showed there are not in the selected 396 glyphs in the Unicode at all, as it is again another interpretation from a single woman of what those basic elements should be…
 
-[05-basic-strokes-museum.jpg]
+![05-basic-strokes-museum.jpg](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/05-basic-strokes-museum.jpg)
+*Set of basic strokes used for Nüshu writing, presented in the Nüshu script Museum. Courtesy of the Museum, 2019*
 
 By focusing on the glyphs present in the Unicode chart, and with the same logic as there would be with Chinese Hanzi, I sorted them out by similarities, with the top part of each glyph as a priority (on written documents, it is obvious that the top part of the glyphs have the emphasis).
 
 *Get to the Unicode chart, range from U1B170 to U1B2FF for Nüshu glyphs:*
 [Unicode chart Nüshu](https://www.unicode.org/charts/PDF/U1B170.pdf)
 
-[Nüshu glyphs from Unicode tables sorted - Round 01](link to pdf in repo)
-*Nüshu glyphs from Unicode tables sorted - Round 01*
+[Nüshu glyphs from Unicode tables sorted - Round 01 and conclusion](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/06-Nushu-sorted-phase01-02.pdf)
+*Nüshu glyphs from Unicode tables sorted - Round 01, then deducted sorting Round 02 after examination of samples*
 
 From this first round of sorting, a few uncertainties appeared for a few glyphs that look pretty close but not quite, according to the sample in the chart.
 
-[08-questioned-shapes.jpg]
+![08-questioned-shapes.jpg](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/08-questioned-shapes.jpg)
+*and this is only a few of them...*
 
 And by examining the various documents, from various authors, there are also significant variations for a same character from one writer to another… With such a neutral and standardized typeface as Noto Sans, the need to bring those same features to Nüshu characters is a very important point.
 
@@ -69,9 +75,9 @@ I scanned most of the documents I have collected with Nushu (I left aside those 
 
 To make the sorting easier to work with from a designer’s point of view, I grouped first the glyphs from the Unicode chart U1B170 by similarities, from the most simple in construction to the most complex.
 
-(09-sorted chart with scans)
+[Sorted chart with scans](09-sorted chart with scans)
 
-[Nüshu glyphs from Unicode tables sorted - Round 02](link to pdf in repo)
+[Nüshu glyphs from Unicode tables sorted - Round 02](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/07-Nushu-sorted-table-final.pdf)
 *Nüshu glyphs from Unicode tables sorted - Round 02*
 
 [Nüshu glyphs table sorted with Noto Sans Nüshu](link to pdf in repo)
@@ -87,7 +93,7 @@ To make the glyphs in a Noto style — neutral and standard (so to speak) — I 
 
 After a first session of sorting and grouping samples of characters (there will be likely a second round with addition of missing examples or very few of them…), I broke down remarks, questions and a first round of decision on the design of Nüshu glyphs in Noto Sans.
 
-
+WIP
 Noto Sans Nüshu Metrics (in units)
 Ascender (or top): 939
 Descender (or bottom): -293
@@ -96,25 +102,26 @@ Height (max and min):
 Stem thickness (max): 86
 Stem thickness (min): 
 Inktraps: to be defined
+WIP
 
 
 #### 01 - Basic construction
 The composition and structure of a Nüshu character in a lozenge frame is one of the main features stated in the description of the script itself. There is no changing metrics (meaning no ascenders or descenders) from one character to another, as in all Nüshu texts the characters are aligned both vertically and horizontally. There are no short glyphs and longer ones.
-[Basic construction samples](10-basic-construction.jpg)
+![Basic construction samples](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/10-basic-construction.jpg)
 *writers from left to right: Hu Meiyue, Xie Shaolin and He Yanxin*
 
 
 ###### 01.A - Spacing (vertical, and not horizontal)
 I made an average measure of space measurement between two characters, and set this as the one for Noto Sans Nüshu. It is clearly shorter than the lenght of the column space, but there is no consistent ratio between both. 
-[Vertical spacing](10-1-vertical-spacing.jpg)
+![Vertical spacing](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/10-1-vertical-spacing.jpg)
 
 ###### 01.B - Baseline
 The baseline as we consider it with Latin glyphs is different for Nüshu characters. There are written following a central vertical line.
-[Central line](10-2-central-line.jpg)
+![Central line](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/10-2-central-line.jpg)
 
 ###### 01.C - Line height, or in this case, column space
 As they are written vertically, the space between two columns of characters has to be wide enough to ease the reading. 
-[Column space](10-3-column-space.jpg)
+![Column space](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/10-3-column-space.jpg)
 
 
 
@@ -124,54 +131,54 @@ Another main feature of Nüshu characters is their elongated proportion. Documen
 
 ###### 02.A - Proportions compared to Latin
 Nüshu characters are (generally) set in the opposite direction compared to Latin in a text, other directions arerare exceptions. A match in weight and color for both scripts is still to be considered, in cases like texts inEnglish and Nüshu characters are set together in academic texts for example. Nüshu characters proportions aredefined here to visually look uniform side by side with Latin letters.
-[Comparison of proportions](11-1-comparison-proportions.jpg)
+![Comparison of proportions](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/11-1-comparison-proportions.jpg)
 *writers: 01 Gao Yinxian, 02 Hu Meiyue, 03 He Yinxian, 04 Anonymous*
 
 ###### 02.B - Components proportions between each other
 We see elements, as components, attached to what seems to be the main part. Some elements can be found in combination with other main components in other glyphs. Which proportions they should have between each other is something to check with the comparison with grouped characters. 
-[Comparison of components proportions](11-2-components-proportions.jpg)
+![Comparison of components proportions](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/11-2-components-proportions.jpg)
 
 In other situations, some glyphs are a same one doubled. Now, is there one smaller than the other one is also a question that seeing the comparisons can be dealt with.
-[Doubled glyphs](11-3-doubled.jpg)
+![Doubled glyphs](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/11-3-doubled.jpg)
     
 
 #### 03 - Curves
 Curves strokes is a specific feature to Nüshu that has to be kept even in a *sans* serif such as Noto Sans. The degree of curvature had been defined to be present without exaggeration.
-[Curves](12-curves.jpg)
+![Curves](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/12-curves.jpg)
 
 #### 04 - Stroke endings
 Noto Sans in Latin has different shapes for horizontal or vertical endings, and also perpendicular ones for the top endings. This last feature in Noto Sans Latin seems to be the one that can be ‘borrowed’ into Nüshu characters and give a feeling of design consistency without denaturalize Nüshu script, as they are all starting or ending with the pen on or off the media without any other detail (there are no serifs anywhere on Nüshu glyphs).
-[Stroke endings](13-endings.jpg)
+![Stroke endings](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/13-endings.jpg)
 
 #### 05 - Strokes lengths
 
 ###### 05.A - With lines
 The length of many strokes, weither they are on the left or the right side of the character, can be different from one another. If we follow the rule of “left side lower than right side” (左低右高), for the bottom stroke endings, the left stroke should end to the bottom line while the right one is higher, even though there are a few exceptions. And it should be the opposite for the top stroke endings. We see this rule applied in many hand written characters.
-[Stroke lengths](14-1-stroke-lengths.jpg)
+![Stroke lengths](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/14-1-stroke-lengths.jpg)
 
 ###### 05.B - With closed shapes
 With several squared shaped glyphs, we see the first stroke (on top left) going even further to the top than the rest of the square’s ‘body’. After examining the comparisons, we can deduce that even if it gives a charming and elegant look to the overall shape, this is a stylistic feature and is not part of the glyph’s standard structure. Though this could possibly be taken in consideration for a ‘serif-like’ style of Nüshu typefaces.
-[Squared shapes tips](14-2-closed-shapes-endings.jpg)
+![Squared shapes tips](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/14-2-closed-shapes-endings.jpg)
 
 #### 06 - Dots and circles
 The dots on Nüshu characters are made with (in most cases and without particular intention of added style) a single dot made with the tip of the tool without added movement. They should convey this idea also on Noto Sans Nüshu, here with the dot borrowed from Noto Sans Latin i and j.
-[Dots](15-1-dots.jpg)
+![Dots](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/15-1-dots.jpg)
 
 Every circled shapes in Nüshu are written with a left and right curve, never one rounded stroke. But one glyph gives a specific question with the shape of the circles: 𛋱 U1B2F1. On the Unicode chart, its appearance makes it look like a tree branch with five leaves leaning downward. But in many samples, those ‘leaves’ are more like five circles more or less close or attached to the central ‘branch’. Instead of being 5 circles with a vertical angle, they are all turning towards the central branch without being attached to it. I’ll follow this specification for this glyph in Noto Sans Nüshu.
-[Circles](15-2-circles.jpg)
+![Circles](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/15-2-circles.jpg)
 
 In some cases, one same writer can even make dots as circles, or even crosses… Which could be confusing, but when compared with many other samples and once they have been studied in large amount of samples, we can easily see that the dot is the “standard” construction for this detail.
-[Dots or circles](15-3-dots-circles.jpg)
+![Dots or circles](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/15-3-dots-circles.jpg)
 
 
 #### 07 - Square skeletons
 In most cases, and in their theoretical construction, squared parts are made with four separate diagonal strokes. In a few documents (mostly calligraphy scrolls), we see a soft single curve on the right side on these squared parts. After reaching the authors, they say that this is a stylistic feature to make characters look even more “Nüshu-ish” in their calligraphy, and that a four strokes construction is indeed the real structure of this part in every glyphs bearing this component.
-[Squares skeletons](16-squares-skeleton.jpg)
+![Squares skeletons](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/16-squares-skeleton.jpg)
 
 #### 08 - Weight
 08.A - Stroke thickness
 For the simplest glyphs, the stroke thickness can be easily matched with the one in Latin. But, just like with Chinese Hanzi, there are much more complex glyphs that need to keep the same weight color as the simple ones and stay within the same metrics. This leads to a similar challenge in optical adjustments of stroke thicknesses and counters to get to a homogeneous consistency.
-[Weight](17-weight.jpg)
+![Weight](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/17-weight.jpg)
 
 
 
