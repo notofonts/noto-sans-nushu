@@ -13,7 +13,7 @@ python3 -m venv venv && source venv/bin/activate
 2. Install requirements
 
 ```
-pip install -r requirements.freeze.**txt**
+pip install -r mastering/requirements.freeze.**txt**
 ```
 
 3. Give execute permissions to build script
