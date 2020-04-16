@@ -17,10 +17,6 @@ value = (
 );
 },
 {
-name = "Use Typo Metrics";
-value = 1;
-},
-{
 name = glyphOrder;
 value = (
 .notdef,
@@ -530,6 +526,21 @@ value = -293;
 {
 name = typoLineGap;
 value = 0;
+},
+{
+name = panose;
+value = (
+2,
+11,
+2,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
 }
 );
 descender = -293;
@@ -564,7 +575,6 @@ position = "{413, 939}";
 }
 );
 id = "CFFEBDE4-599A-46B2-9328-D96E42CD9C81";
-weightValue = 400;
 xHeight = 536;
 }
 );
@@ -602,25 +612,27 @@ note = .notdef;
 },
 {
 glyphname = NULL;
-lastChange = "2020-04-15 14:14:15 +0000";
+lastChange = "2020-04-16 01:14:21 +0000";
 layers = (
 {
 layerId = "CFFEBDE4-599A-46B2-9328-D96E42CD9C81";
-width = 600;
+width = 0;
 }
 );
 note = NULL;
+unicode = 0000;
 },
 {
 glyphname = CR;
-lastChange = "2020-04-15 04:01:00 +0000";
+lastChange = "2020-04-16 01:14:28 +0000";
 layers = (
 {
 layerId = "CFFEBDE4-599A-46B2-9328-D96E42CD9C81";
-width = 600;
+width = 260;
 }
 );
 note = CR;
+unicode = 000D;
 },
 {
 glyphname = space;

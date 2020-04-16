@@ -34,3 +34,7 @@ mv ${output/".ttf"/".ttf.fix"} $output
 gftools fix-nonhinting $output $output
 rm ${output/".ttf"/"-backup-fonttools-prep-gasp.ttf"}
 
+# ------------------------------------------------------
+# copy font to web test
+
+cp $output docs/fonts/NotoSansNushu-Regular.ttf
