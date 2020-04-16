@@ -93,17 +93,6 @@ To make the glyphs in a Noto style — neutral and standard (so to speak) — I 
 
 After a first session of sorting and grouping samples of characters (there will be likely a second round with addition of missing examples or very few of them…), I broke down remarks, questions and a first round of decision on the design of Nüshu glyphs in Noto Sans.
 
-WIP
-Noto Sans Nüshu Metrics (in units)
-Ascender (or top): 939
-Descender (or bottom): -293
-Width (max and min):
-Height (max and min):
-Stem thickness (max): 86
-Stem thickness (min): 
-Inktraps: to be defined
-WIP
-
 
 #### 01 - Basic construction
 The composition and structure of a Nüshu character in a lozenge frame is one of the main features stated in the description of the script itself. There is no changing metrics (meaning no ascenders or descenders) from one character to another, as in all Nüshu texts the characters are aligned both vertically and horizontally. There are no short glyphs and longer ones.
@@ -211,14 +200,16 @@ After a comparison with all three scripts together — Latin, Hanzi and Nüshu �
 (19-3-before and after illustration)
 
 
-FINAL Noto Sans Regular Nüshu Metrics (in units)
-Ascender (or top): 939
-Descender (or bottom): -293
-Width (max and min):
-Height (max and min):
-Stem thickness (max): 78
-Stem thickness (min): 
-Inktraps (same size as in Noto Sans Regular Latin): 4
+Noto Sans Nüshu characters measurements (values in units)
+|What        | Before                | Now                     |
+|------------|-----------------------|-------------------------|
+|Top         |1079                   |939                      |
+|Bottom      |-325                   |-203                     |
+|Width       |1020(max), 400(min)    |917(max), 302(min)       |
+|Height      |1404                   |1142(max), 952(min)      |
+|Stem        |86 (max), 70(min)      |78(max), 54(min)         |
+|Inktraps    |to be defined          |4 (like Noto Sans Latin) |
+
 
 Specimen images
 
