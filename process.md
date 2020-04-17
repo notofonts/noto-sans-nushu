@@ -76,7 +76,7 @@ I scanned most of the documents I have collected with Nushu (I left aside those 
 
 To make the sorting easier to work with from a designer’s point of view, I grouped first the glyphs from the Unicode chart U1B170 by similarities, from the most simple in construction to the most complex.
 
-[Sorted chart with scans](09-sorted chart with scans)
+[08-nushu-samples-scans-table.pdf](09-sorted chart with scans)
 
 [Nüshu glyphs from Unicode tables sorted - Round 02](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/07-Nushu-sorted-table-final.pdf)
 *Nüshu glyphs from Unicode tables sorted - Round 02*
