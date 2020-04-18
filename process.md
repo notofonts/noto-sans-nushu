@@ -178,11 +178,12 @@ For the simplest glyphs, the stroke thickness can be easily matched with the one
 
 Adjustments on vertical metrics of all glyphs have been made as I realized they were too long compared to the Latin once set up in Latin horizontally lining text…
 (18-1-illustration)
+(18-2-evolution gif file)
 
 
 Some glyphs might seem different from what they look like in the Unicode chart (e.g. 1B22D, 1B280, 1B2F9, 1B2CB, 1B1B7, 1B284, 1B224, 1B270, 1B2CF, 1B267, 1B1BF, 1B2F1, 1B2D2, 1B2951 1B245, 1B2A0, 1B23A, 1B2E4, 1B2AE, 1B292, 1B1F4 and 1B250, 1B201 and 1B221 and 1B266)
 These adjustments are designed after seeing the results of the samples sorting session, then discussed and decided with the writers and considered as ‘right’ and fully understood and readable correctly. All in all, in an effort to “standardize” the shapes of those glyphs to bring in them the characteristics of Noto Sans family, it has been a much longer work to sort out the disparities rather than actual design… unless this can be considered as design? 
-(18-2-comparison of the listed glyphs between Unicode samples, sorted samples and Noto Sans Nüshu)
+(18-3-comparison of the listed glyphs between Unicode samples, sorted samples and Noto Sans Nüshu)
 
 
 ## Phase 06 - Finalization
