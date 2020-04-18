@@ -84,7 +84,7 @@ To make the sorting easier to work with from a designer’s point of view, I gro
 [Nüshu glyphs from Unicode tables sorted - Round 02](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/07-Nushu-sorted-table-final.pdf)
 *Nüshu glyphs from Unicode tables sorted - Round 02*
 
-[Nüshu glyphs table sorted with Noto Sans Nüshu](link to pdf in repo)
+[Nüshu glyphs table sorted with Noto Sans Nüshu](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/08-nushu-sorted-in-noto.pdf)
 *Nüshu glyphs table sorted with Noto Sans Nüshu*
 
 To make the glyphs in a Noto style — neutral and standard (so to speak) — I had to see which features of a character appear the most frequently. Even if the number of writers is quite limited (about 13-14 in total) and most of them are women of the post-Nushu era (see presentation, section 08. “Discovery” of Nüshu script). The quality of this process can of course be questioned by academic researchers, and it would be best to work on it again, on the field, with the women teaching the script right now to see which characters are taught nowadays and how do they look like. This would be eventually a process for a perspective that is definitively turned towards present times, rather than on any remains we can still grab on to...
@@ -231,6 +231,7 @@ Thank you for your interest!
 
 
 Other technical informations links (for the bravest):
+
 https://www.unicode.org/wg2/docs/n4341.pdf
 
 http://std.dkuug.dk/jtc1/sc2/wg2/docs/n4610.pdf
