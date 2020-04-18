@@ -198,7 +198,7 @@ A pass of corrections on widths, general proportions and stroke position have be
 Last add on into the character set after a suggestion message from @sgalal on the Github repository once it has been made public: Nüshu iteration mark U+16FE1, that can be added to the set. It is also called repetition mark and has the exact behavior as its name: once used in a text, it specifies that the previous glyph is repeated.
 (19-2-example here)
 
-After a comparison with all three scripts together — Latin, Hanzi and Nüshu —, I realize very late that Nüshu glyphs were too bold and had to adjust them all.`
+After a comparison with all three scripts together — Latin, Hanzi and Nüshu —, I realize very late that Nüshu glyphs were too bold and had to adjust them all by reducing the weight of about 10 units.
 (19-3-before and after illustration)
 
 
@@ -213,7 +213,7 @@ Noto Sans Nüshu characters measurements (values in units)
 |Inktraps    |to be defined          |4 (like Noto Sans Latin) |
 
 
-Specimen images
+(20-Specimen images)
 
 Links
 https://www.unicode.org/wg2/docs/n4341.pdf
