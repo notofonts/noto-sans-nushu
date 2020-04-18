@@ -1,7 +1,8 @@
 Noto Sans Nüshu - process and progress
 ======================================
 
-(illsutration)
+![Main image](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/00-main.jpg)
+
 
 ## Phase 01 - Introduction
 
@@ -11,7 +12,9 @@ Noto Sans Nüshu project have been suggested to me quite unexpectedly. I have se
 
 The idea of working on a digitized version of a script in between disappearance and revival, created and developed by women, in a remote region of China, that has never been digitized and published in any fonts (yet), triggered me much interest! The other challenge is also to design a set of characters (396 glyphs, not thaaat much) to make them fit into a larger family such as Noto Sans Regular (Latin and Hanzi parts, as references) with design features and characteristics already in place, with an entire design process to be defined from scratch...
 
-(01- image with Nüshu characters side by side with Noto Sans Latin and Hanzi samples)
+![Noto in three scripts](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/01-noto-sans-three-scripts.jpg)
+*with Noto Sans Regular in Latin, Chinese and Nüshu*
+
 
 About Nüshu script, besides having no digital presence as (published) fonts yet, there is a large variety of content on the web, both relevant, interesting and intriguing, and also unfortunately not so much accurate… There is a handful of articles superficially talking about the script, sometimes relevant but also not so much accurate, or at least quite doubtful… And there is also no published fonts with Nüshu (yet) at all. From what I could find on a first round, a few names of researchers specialised in the script pop out regularly. The most frequent and serious one is Pr. Zhao Liming (赵丽明博士), professor in Chinese Linguistics specialised in endangered languages at Tsinghua University in Beijing. She and her research team from the university is also the one that made an incredible work of selection of the 396 glyphs added to the Unicode chart (see [Theory and Rules of Nushu Character Unification](https://www.unicode.org/L2/L2014/14244-n4639.pdf), Liming Zhao, Sept 23, 2014).
 
@@ -177,13 +180,13 @@ For the simplest glyphs, the stroke thickness can be easily matched with the one
 ###### 16 March 2020
 
 Adjustments on vertical metrics of all glyphs have been made as I realized they were too long compared to the Latin once set up in Latin horizontally lining text…
-(18-1-illustration)
-(18-2-evolution gif file)
+
+![Process evolution](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/19-evolution-process.gif)
 
 
 Some glyphs might seem different from what they look like in the Unicode chart (e.g. 1B22D, 1B280, 1B2F9, 1B2CB, 1B1B7, 1B284, 1B224, 1B270, 1B2CF, 1B267, 1B1BF, 1B2F1, 1B2D2, 1B2951 1B245, 1B2A0, 1B23A, 1B2E4, 1B2AE, 1B292, 1B1F4 and 1B250, 1B201 and 1B221 and 1B266)
 These adjustments are designed after seeing the results of the samples sorting session, then discussed and decided with the writers and considered as ‘right’ and fully understood and readable correctly. All in all, in an effort to “standardize” the shapes of those glyphs to bring in them the characteristics of Noto Sans family, it has been a much longer work to sort out the disparities rather than actual design… unless this can be considered as design? 
-(18-3-comparison of the listed glyphs between Unicode samples, sorted samples and Noto Sans Nüshu)
+![Variations from Unicode samples](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/18-3-variations-from-unicode.jpg)
 
 
 ## Phase 06 - Finalization
@@ -191,15 +194,13 @@ These adjustments are designed after seeing the results of the samples sorting s
 ###### 24 March 2020
 
 A pass of corrections on widths, general proportions and stroke position have been made.
-(before and several afters images to put here)
 
-(19-1-GIF with evolutions?)
+[PDF file with evolutions on the font](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/18-evolution-process.pdf)
 
-Last add on into the character set after a suggestion message from @sgalal on the Github repository once it has been made public: Nüshu iteration mark U+16FE1, that can be added to the set. It is also called repetition mark and has the exact behavior as its name: once used in a text, it specifies that the previous glyph is repeated.
-(19-2-example here)
+Last add on into the character set after a suggestion thanks to @sgalal on the Github repository once it has been made public: Nüshu iteration mark U+16FE1, that can be added to the set. It is also called repetition mark and has the exact behavior as its name: once used in a text, it specifies that the previous glyph is repeated.
 
 After a comparison with all three scripts together — Latin, Hanzi and Nüshu —, I realize very late that Nüshu glyphs were too bold and had to adjust them all by reducing the weight of about 10 units.
-(19-3-before and after illustration)
+![Addition of iteration mark and weight adjustment](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/19-3-before-after.jpg)
 
 
 Noto Sans Nüshu characters measurements (values in units)
@@ -213,8 +214,23 @@ Noto Sans Nüshu characters measurements (values in units)
 |Inktraps    |to be defined          |4 (like Noto Sans Latin) |
 
 
-(20-Specimen images)
 
-Links
+![Specimen 01](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/20-1-specimen.jpg)
+*full character set - 397 glyphs*
+
+![Specimen 02](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/20-2-specimen.jpg)
+
+![Specimen 03](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/20-3-specimen.jpg)
+*文明交流互鉴 - originally from a calligraphy by Hu Xin 胡欣*
+
+Any suggestion for improvements of this project are very much welcome! 
+
+Thank you for your interest! 
+
+![Final](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-process/21-final.jpg)
+
+
+Other technical informations links (for the bravest):
 https://www.unicode.org/wg2/docs/n4341.pdf
+
 http://std.dkuug.dk/jtc1/sc2/wg2/docs/n4610.pdf
