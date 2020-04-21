@@ -8,7 +8,7 @@
 > note: to avoid any confusion in words meaning, I will refer here : 
 > *Chinese* as Chinese spoken language.
 > *Hanzi* as Chinese written characters (汉字).
-> *Nüshu* as Nüshu script, as it is *Nüshu script* sounds redundant. *Nü* (where the ü is pronounced like a French [u]) means ‘woman’ (女), and *shu* (书 - meaning more commonly ‘book’ but also ‘script’) stands for script already. 
+> *Nüshu* as Nüshu script. *Nüshu script* as it is sounds redundant, as *Nü* (where the ü is pronounced like a French [u]) means ‘woman’ (女), and *shū* (书 - meaning more commonly ‘book’ but also ‘script’) stands for script already. 
 > *Tuhua* as local dialects.
 
 
@@ -16,9 +16,9 @@
 ### Introduction 
 
 
-In these modern times, literacy is something that we would take for granted, and for (almost) everyone accross the globe. All along human history, writing systems play an essential role to its evolution. The knowledge of writing and reading is something that we imagine accessible to all in a utopic world, with no barriers, to encourage the advancements of societies… But it obviously and unfortunately hasn’t been this way. There must have been solutions through the ages and around the world created and developed firstly from a practical need, but very few of them come to the general knowledge or under the spotlight. 
+In these modern times, literacy is something that we would take for granted, and for (almost) everyone accross the globe. All along human history, writing systems play an essential role to its evolution. The knowledge of writing and reading is something that we imagine accessible to all in a utopic world, with no barriers, bringing societies further and better… But obviously and unfortunately, it hasn’t been this way. There must have been solutions through the ages, around the world, created and developed out of a practical need, but very few of them come to the general knowledge, reach our times, or are under the spotlight. 
 
-Until very recently though, this happened to one of them: Nüshu writing system. It is a one of its kind example of a solution brought to life by self-educated people when academic education were not allowed to them because of both social an gender separation. This script’s existence demonstrates a solution to bypass a barrier with peace, and transform it into a way to elevate the users on their own with no foreign help or influence.
+Until very recently though, this happened to one of them, on its almost-extinct moment: Nüshu writing system. It is a one of its kind example of a solution brought to life by self-educated people when academic education were not allowed to them because of both social an gender separation. This script’s existence demonstrates a solution to bypass a barrier with peace, and transform it into a way to elevate the users on their own with no foreign help or influence.
 
 
 
@@ -139,7 +139,7 @@ A text written in Nüshu can be understood only if the reader knows the dialect 
 
 > note: According to Pr Zhao Liming, Chinese Mandarin could easily be transcribed into Nushu (with less than 400 characters) instead of Hanzi characters (which can be up to 106,000 characters according to the *Dictionary of Chinese Variant Form* - 中华字海...). 
 
-Besides all the dialects (there have never been a precise number of how many dialects were using Nüshu, as some of them are already extinct), the system developed with Nüshu allowed a parallel language called *Yayan* (雅言 - ‘beautiful language’) or Jiangyong's sound (江永城关音). Through time, women ended up with a preference for Yayan instead of their own dialect to write down Nüshu texts, teaching this version accross Jiangyong, considering it to sound nicer and more suitable to the script. For women in Jiangyong district, Yayan is considered to be the local official dialect.
+Besides all dialects (there have never been a precise number of how many dialects were using Nüshu, some of them are already extinct), the system developed with Nüshu allowed a parallel language called *Yayan* (雅言 - ‘prestigious language’) or Jiangyong's common language (江永城关音). Through time, women ended up with a preference for Yayan instead of their own dialect to write down Nüshu texts, teaching this version accross Jiangyong, considering it to sound nicer and more suitable to the script. For women in Jiangyong district, Yayan is considered to be the local official dialect.
 
 
 
@@ -287,8 +287,7 @@ There are unfortunately almost no English versions or translation as of now, but
 
 #### Thanks to:
 Pr Zhao Liming 赵丽明博士, Hu Meiyue 胡美月, Hu Yanyu 胡艳玉 (directions and feedbacks) ✍️ 🔎 🖍,
-Stephen Nixon (mastering)  👨‍💻,
-And of course Google Fonts team! 🙏
+Stephen Nixon (mastering)  👨‍💻, Liang Hai 梁海 (advice) 🧭 and of course Google Fonts team! 🙏
 
 
 #### Google Fonts Noto family website:
