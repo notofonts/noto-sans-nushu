@@ -1,40 +1,40 @@
 # About Nüshu script and Noto Sans Nüshu
 
 ![Gao YinXian's handwriting](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-presentation/00-GaoYinXian-handwriting.jpg)
-*一岁女，手上珠 (One year girl, hands with pearl) by Gao Yinxian 高银仙 (1902 - 1990)*
+*一岁女，手上珠 (One year girl, hands with pearl) by Gao Yinxian 高银仙 (1902–1990)*
 
 *reading time: 15min*
 
-> note: to avoid any confusion in words meaning, I will refer here : 
+> note: to avoid any confusion in words meaning, I will refer here :
 > *Chinese* as Chinese spoken language.
 > *Hanzi* as Chinese written characters (汉字).
-> *Nüshu* as Nüshu script. *Nüshu script* as it is sounds redundant, as *Nü* (where the ü is pronounced like a French [u]) means ‘woman’ (女), and *shū* (书 - meaning more commonly ‘book’ but also ‘script’) stands for script already. 
+> *Nüshu* as Nüshu script. *Nüshu script* as it is sounds redundant, as *Nü* (where the ü is pronounced like a French [u]) means ‘woman’ (女), and *shū* (书 - meaning more commonly ‘book’ but also ‘script’) stands for script already.
 > *Tuhua* as local dialects.
 
 
 
-### Introduction 
+### Introduction
 
 
-In these modern times, literacy is something that we would take for granted, and for (almost) everyone accross the globe. All along human history, writing systems play an essential role to its evolution. The knowledge of writing and reading is something that we imagine accessible to all in a utopic world, with no barriers, bringing societies further and better… But obviously and unfortunately, it hasn’t been this way. There must have been solutions through the ages, around the world, created and developed out of a practical need, but very few of them come to the general knowledge, reach our times, or are under the spotlight. 
+In these modern times, literacy is something that we would take for granted, and for (almost) everyone across the globe. All along human history, writing systems play an essential role to its evolution. The knowledge of writing and reading is something that we imagine accessible to all in a utopic world, with no barriers, bringing societies further and better… But obviously and unfortunately, it hasn’t been this way. There must have been solutions through the ages, around the world, created and developed out of a practical need, but very few of them come to the general knowledge, reach our times, or are under the spotlight.
 
 Until very recently though, this happened to one of them, on its almost-extinct moment: Nüshu writing system. It is a one of its kind example of a solution brought to life by self-educated people when academic education were not allowed to them because of both social an gender separation. This script’s existence demonstrates a solution to bypass a barrier with peace, and transform it into a way to elevate the users on their own with no foreign help or influence.
 
 
 
-### 01.What and Where
+### 01. What and Where
 
 
 
 Nüshu is the only writing system developed and used exclusively by women in History in the world (as we know it so far... no one knows what is still awaiting to be discovered...) in the south west region of Hunan (湖南省) in China.
 
 
-> Description of Nüshu, as part of the latest update in the Unicode Standard: "Nüshu is a siniform script devised by and for women to write the local Chinese dialect of south eastern Hunan province, China. Nüshu is based on Chinese Han characters. Unlike Chinese, the characters typically denote the phonetic value of syllables. Less often Nüshu characters are used as ideographs. Although very few fluent Nüshu users were alive in the late twentieth century, the script has drawn national and international attention, leading to the study and preservation of the script." ([The Unicode Standard, version 12.0 - Core Specification - Chapter 18, East Asia, p.742](https://www.unicode.org/versions/Unicode12.0.0/ch18.pdf), March 2019) 
+> Description of Nüshu, as part of the latest update in the Unicode Standard: "Nüshu is a siniform script devised by and for women to write the local Chinese dialect of south eastern Hunan province, China. Nüshu is based on Chinese Han characters. Unlike Chinese, the characters typically denote the phonetic value of syllables. Less often Nüshu characters are used as ideographs. Although very few fluent Nüshu users were alive in the late twentieth century, the script has drawn national and international attention, leading to the study and preservation of the script." ([The Unicode Standard, version 12.0 - Core Specification - Chapter 18, East Asia, p.742](https://www.unicode.org/versions/Unicode12.0.0/ch18.pdf), March 2019)
 
 
-This unique writing system lives in the remote areas of the province of Hunan, more precisely within the district of Jiangyong (江永县). The closest large city is Guilin (桂林), famous for its particular high mountains specific to the region. Jiangyong county spreads on about 1600km2, which a bit larger than the Greater London (1500km2) but with a much fewer population (about 240,000 in 2015) with two main ethnic groups: Han and Yao. [1](https://en.wikipedia.org/wiki/Jiangyong_County)
+This unique writing system lives in the remote areas of the province of Hunan, more precisely within the district of Jiangyong (江永县). The closest large city is Guilin (桂林), famous for its particular high mountains specific to the region. Jiangyong county spreads on about 1600 km², which a bit larger than the Greater London (1500 km²) but with a much fewer population (about 240,000 in 2015) with two main ethnic groups: Han and Yao. [1](https://en.wikipedia.org/wiki/Jiangyong_County)
 
-![Map of China](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-presentation/01-map.jpg) 
+![Map of China](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-presentation/01-map.jpg)
 
 > note: even nowadays the disctrict of Jiangyong is still apart from the rest of the country, hard to reach, with regional trains, few train stations, and very reduced taxi service... as the only people moving around are ones living there.)
 
@@ -47,10 +47,10 @@ Nüshu is the phonetic transcription of 女书 in Chinese, which literally means
 *Lishu sample on Cao Quan Stele 曹全碑, from the Beilin Museum collection in Xi'an (碑林, 西安)*
 
 ![Kaishu sample](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-presentation/01-kaishu-YanZhenQing.jpg)
-*Kaishu sample, calligraphy by Yan Zhenqing 颜真卿 (709 - 784)*
+*Kaishu sample, calligraphy by Yan Zhenqing 颜真卿 (709–784)*
 
 ![Caoshu sample](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-presentation/01-caoshu-WangXianZhi.jpg)
-*Caoshu sample, calligraphy by Wang Xianzhi (344 - 386)*
+*Caoshu sample, calligraphy by Wang Xianzhi (344–386)*
 
 These examples show different calligraphic styles of a same script: Hanzi. Nüshu is a different script, strongly related to Chinese and to Hanzi.
 
@@ -60,24 +60,24 @@ Nüshu is not to be put in the same basket as the other calligraphy scripts, as 
 
 
 
-### 02.When
+### 02. When
 
 
 
-Even until nowadays it is hard to determine with certainty a date of origins for Nüshu, as there are very few old documents with this script or traces of its beginnings remaining (see in *Chapter 06. How is it used* to know why). But, it is said by most (serious) researchs that Nüshu finds its origins around the 9th century, during the beginning of Song dynasty (960 - 1279) from the oldest still existing documents or more recent ones mentioning Nüshu. Most of the documents and artefacts with Nüshu are dated from Ming (1368 - 1644) and Qing (1644 - 1911) dynasties, kept in Hunan Museum in Changsha. Bronze coins dated from [Taiping Heavenly Kingdom](https://en.wikipedia.org/wiki/Taiping_Heavenly_Kingdom) (太平天国) era (1851 - 1864) has been discovered in 1993 in Nanjing (much further North to Jiangyong) with Nüshu characters on one side saying "women under the sky, sisters of one family" (天下妇女，姊妹一家). It is the oldest artefact found with Nüshu characters so far.
+Even until nowadays it is hard to determine with certainty a date of origins for Nüshu, as there are very few old documents with this script or traces of its beginnings remaining (see in *Chapter 06. How is it used* to know why). But, it is said by most (serious) researchs that Nüshu finds its origins around the 9th century, during the beginning of Song dynasty (960–1279) from the oldest still existing documents or more recent ones mentioning Nüshu. Most of the documents and artefacts with Nüshu are dated from Ming (1368–1644) and Qing (1644–1911) dynasties, kept in Hunan Museum in Changsha. Bronze coins dated from [Taiping Heavenly Kingdom](https://en.wikipedia.org/wiki/Taiping_Heavenly_Kingdom) (太平天国) era (1851–1864) has been discovered in 1993 in Nanjing (much further North to Jiangyong) with Nüshu characters on one side saying "women under the sky, sisters of one family" (天下妇女，姊妹一家). It is the oldest artefact found with Nüshu characters so far.
 
 ![Bronze coin](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-presentation/02-bronze-coin.jpg)
 *Bronze coin imprint with Nüshu correspondence, courtesy of Pr Zhao Liming 赵丽明*
 
 
 
-### 03.Why 
+### 03. Why
 
 
 
-In a feodal China, women were not allowed to learn or write, a privilege given to the imperial family, nobility, administration and academics (exclusively men, apart from a handful of high rank women in the imperial family…). Literacy in China was at very low rate, for both men and women (literacy rates for women was very likely even lower than for men) until the 1950’s only! (see [China’s Long — but Uneven — March to Literacy](https://www.nytimes.com/2001/02/12/news/chinas-long-but-uneven-march-to-literacy.html) by Ted Plafker, New York Times, 2001). 
+In a feodal China, women were not allowed to learn or write, a privilege given to the imperial family, nobility, administration and academics (exclusively men, apart from a handful of high rank women in the imperial family…). Literacy in China was at very low rate, for both men and women (literacy rates for women was very likely even lower than for men) until the 1950’s only! (see [China’s Long — but Uneven — March to Literacy](https://www.nytimes.com/2001/02/12/news/chinas-long-but-uneven-march-to-literacy.html) by Ted Plafker, New York Times, 2001).
 
-In remote regions hardly accessible like Jiangyong in Hunan, exchanges of informations were rare, as moving to one village to another could take days if not weeks. Women in these rural areas were put away from society, "only" in charge of the household chores and children, cut-off any activities or events outside of their villages. 
+In remote regions hardly accessible like Jiangyong in Hunan, exchanges of informations were rare, as moving to one village to another could take days if not weeks. Women in these rural areas were put away from society, "only" in charge of the household chores and children, cut-off any activities or events outside of their villages.
 
 Once a women is wed (to a husband from another village), she would have to move to the husband's family, which means leaving her own family, friends and birthplace. Women in Jiangyong didn't know that much about outside world's activity or news, but needed to keep contact with their loved ones.
 
@@ -87,11 +87,11 @@ In this context, women created on parallel world a creative way full of practica
 
 
 
-### 04.The look
+### 04. The look
 
 
 
-The mysterious look of the script for people unfamiliar with it created stories and legends or various degrees of craziness (language of women spies, witches, language from gods or supernatural beings...). 
+The mysterious look of the script for people unfamiliar with it created stories and legends or various degrees of craziness (language of women spies, witches, language from gods or supernatural beings …).
 But, more seriously, it is obvious that women who created and developed Nüshu got inspiration from Hanzi shapes and features (they used what they could see around them). Many Nüshu characters are even sort of distorted Hanzi characters, along with many other non-Hanzi related glyphs at all.
 
 ![Comparison Hanzi and Nushu similar](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-presentation/04-comparison-CN-NS-similar.jpg)
@@ -116,16 +116,16 @@ The elongated proportions of Nüshu characters is in itself a result of a women-
 ![Tools for Nushu](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-presentation/04-tools.jpg)
 *Fan, booklet, wok ash and wood-cut pen, courtesy of Nüshu script Museum*
 
-Nüshu texts are set and read just like traditional Chinese: written from top to bottom, lines following from right to left. It can be seen on some texts that the reading direction happens to be characters from left to right, then aligned from top to bottom. 
+Nüshu texts are set and read just like traditional Chinese: written from top to bottom, lines following from right to left. It can be seen on some texts that the reading direction happens to be characters from left to right, then aligned from top to bottom.
 
 ![Reading orders](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-presentation/04-reading-order.jpg)
-*left: anonymous writer, right: 秋夜小坐感 (Lodge in a Temple on the Hill for the Night - 夜宿山寺 by Li Bai 李白) written by Yang Huanyi 阳换宜 (1909 - 2004)*
+*left: anonymous writer, right: 秋夜小坐感 (Lodge in a Temple on the Hill for the Night - 夜宿山寺 by Li Bai 李白) written by Yang Huanyi 阳换宜 (1909–2004)*
 
-These features of Nüshu characters give a text written in this script a surprisingly ‘feminine’ appearance, especially when the curves are delicately traced, sometimes exaggerated for an even more elegant feel when compared to squarish and blocky ‘masculine’ Hanzi characters (does a style of writing can bear feminity, masculinity or even neutrality would be an interesting topic of discussion…). 
+These features of Nüshu characters give a text written in this script a surprisingly ‘feminine’ appearance, especially when the curves are delicately traced, sometimes exaggerated for an even more elegant feel when compared to squarish and blocky ‘masculine’ Hanzi characters (does a style of writing can bear femininity, masculinity or even neutrality would be an interesting topic of discussion…).
 
 
 
-### 05.How it works 
+### 05. How it works
 
 
 
@@ -137,13 +137,13 @@ A text written in Nüshu can be understood only if the reader knows the dialect 
 *Dawn of Spring 春晓, by Meng Haoran 孟浩然, written by He Yanxin 何艳新 (1940 -)*
 
 
-> note: According to Pr Zhao Liming, Chinese Mandarin could easily be transcribed into Nushu (with less than 400 characters) instead of Hanzi characters (which can be up to 106,000 characters according to the *Dictionary of Chinese Variant Form* - 中华字海...). 
+> note: According to Pr Zhao Liming, Chinese Mandarin could easily be transcribed into Nushu (with less than 400 characters) instead of Hanzi characters (which can be up to 106,000 characters according to the *Dictionary of Chinese Variant Form* - 中华字海...).
 
-Besides all dialects (there have never been a precise number of how many dialects were using Nüshu, some of them are already extinct), the system developed with Nüshu allowed a parallel language called *Yayan* (雅言 - ‘prestigious language’) or Jiangyong's common language (江永城关音). Through time, women ended up with a preference for Yayan instead of their own dialect to write down Nüshu texts, teaching this version accross Jiangyong, considering it to sound nicer and more suitable to the script. For women in Jiangyong district, Yayan is considered to be the local official dialect.
+Besides all dialects (there have never been a precise number of how many dialects were using Nüshu, some of them are already extinct), the system developed with Nüshu allowed a parallel language called *Yayan* (雅言 - ‘prestigious language’) or Jiangyong's common language (江永城关音). Through time, women ended up with a preference for Yayan instead of their own dialect to write down Nüshu texts, teaching this version across Jiangyong, considering it to sound nicer and more suitable to the script. For women in Jiangyong district, Yayan is considered to be the local official dialect.
 
 
 
-### 06.How has it been used
+### 06. How has it been used
 
 
 
@@ -165,16 +165,16 @@ Many legends or stories about the first uses of Nüshu surround the script, but 
 ![Silk belts](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-presentation/06-silk-belt.jpg)
 *silk belts woven with Nüshu characters in, courtesy of the Nüshu script Museum*
 
-Nüshu allowed farmland and mountain village women not only to communicate between each other when they were not allowed to write or read, but also to develop their very own culture. 
+Nüshu allowed farmland and mountain village women not only to communicate between each other when they were not allowed to write or read, but also to develop their very own culture.
 
 
 
-### 07.How has it been taught
+### 07. How has it been taught
 
 
 
-Nüshu has been taught directly from one woman to another(s), generally from mother to daughter(s), without any academic environment or system through the generations. It was very often taught in village halls (歌堂) or at home. Even if there is a common core, each woman or groups of women would bring their own adaptations, styles and preferences to the characters and teach the ones they know to the younger women and girls. 
-To add another layer of complexity, the dialect used in one village can be slightly different in their pronunciation to the one used nearby, which influences the characters used in Nüshu. 
+Nüshu has been taught directly from one woman to another(s), generally from mother to daughter(s), without any academic environment or system through the generations. It was very often taught in village halls (歌堂) or at home. Even if there is a common core, each woman or groups of women would bring their own adaptations, styles and preferences to the characters and teach the ones they know to the younger women and girls.
+To add another layer of complexity, the dialect used in one village can be slightly different in their pronunciation to the one used nearby, which influences the characters used in Nüshu.
 
 ![Transmission](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-presentation/07-transmission.jpg)
 *reading and singing session with Hu Meiyue 胡美月 in center left, courtesy of Nüshu script Museum*
@@ -186,31 +186,31 @@ These two factors make the standardization of the script very complex and can’
 
 
 
-### 08.“Discovery” of Nüshu script
+### 08. “Discovery” of Nüshu script
 
 
 
 Nüshu has always been used openly in the villages. Men could see the script used by women around them without secret but it never caught their attention as they had Hanzi already, and also because it is used by women, and women of a very small area… Until recently!
 
-Between 1950 and 1980, Nüshu started to attract the interest of researchers in linguistics. In 1956, Li Zhengguang (李正光), member of Hunan’s cultural patrimony team, discovered accidentaly documents with Nüshu characters while doing a in situ research on Yao ethnic group culture. He wrote the first article mentioning Nüshu in 1957 meant to be published in a national linguistics magazine. But because of the connexion to the co-editor of the magazine to the right wing movement, the article has been cancelled for publication while Cultural Revolution started accross the country. 
+Between 1950 and 1980, Nüshu started to attract the interest of researchers in linguistics. In 1956, Li Zhengguang (李正光), member of Hunan’s cultural patrimony team, discovered accidentally documents with Nüshu characters while doing a in situ research on Yao ethnic group culture. He wrote the first article mentioning Nüshu in 1957 meant to be published in a national linguistics magazine. But because of the connexion to the co-editor of the magazine to the right wing movement, the article has been cancelled for publication while Cultural Revolution started across the country.
 
 ![Li Zhengguang portrait](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-presentation/08-LiZhengGuang.jpg)
 *Portrait of Li Zhengguang 李正光 (1937 -), courtesy of Nüshu script Museum*
 
-At that time, women who learned and used Nüshu in the original way were already of very advanced age, and the research in the topic was crucial as the original knowledge was on the verge of disappearing. The last woman known to have learned and used Nushu in its traditional way, Yang Huanyi (阳焕宜) passed away in 2004 at the age of 98. That year marked the beginning of the post-Nüshu era (后女书时代). 
+At that time, women who learned and used Nüshu in the original way were already of very advanced age, and the research in the topic was crucial as the original knowledge was on the verge of disappearing. The last woman known to have learned and used Nushu in its traditional way, Yang Huanyi (阳焕宜) passed away in 2004 at the age of 98. That year marked the beginning of the post-Nüshu era (后女书时代).
 
 ![Yang Huanyi portrait](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-presentation/08-YangHuanyi.jpg)
 *Portrait of Yang Huanyi 阳焕宜, courtesy of Zhao Liming 赵丽明*
 
 
 
-### 09.How does Nüshu live nowadays? 
+### 09. How does Nüshu live nowadays?
 
 
 
-Nüshu script existence is not so much relevant anymore once Mandarin and education has been expanded across the entire country, accessible to everyone. 
+Nüshu script existence is not so much relevant anymore once Mandarin and education has been expanded across the entire country, accessible to everyone.
 
-Current generations in Jiangyong are fighting to keep this culture alive with demontrations, festivals, conferences and shows across China and the globe. Even if it is not used at is was originally anymore with education accessible through the entire country and for everyone, local populations are all aware of their precious and fragile legacy. Since a couple of years, local and main governments in the country are promoting the script’s culture, benefitting from its touristic attractiveness, with the creation in 2007 of the [Nüshu script Museum](https://baike.baidu.com/item/%E5%A5%B3%E4%B9%A6%E7%94%9F%E6%80%81%E5%8D%9A%E7%89%A9%E9%A6%86) in Jiangyong county that organizes Nüshu classes every summer and display not only the script’s history but also local culture and folklore. 
+Current generations in Jiangyong are fighting to keep this culture alive with demonstrations, festivals, conferences and shows across China and the globe. Even if it is not used at is was originally anymore with education accessible through the entire country and for everyone, local populations are all aware of their precious and fragile legacy. Since a couple of years, local and main governments in the country are promoting the script’s culture, benefitting from its touristic attractiveness, with the creation in 2007 of the [Nüshu script Museum](https://baike.baidu.com/item/%E5%A5%B3%E4%B9%A6%E7%94%9F%E6%80%81%E5%8D%9A%E7%89%A9%E9%A6%86) in Jiangyong county that organizes Nüshu classes every summer and display not only the script’s history but also local culture and folklore.
 
 ![Nushu script museum](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-presentation/09-nushu-museum.jpg)
 *Nüshu script Museum village entrance*
@@ -221,7 +221,7 @@ Current generations in Jiangyong are fighting to keep this culture alive with de
 ![Shop signs](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-presentation/09-shop-sign.jpg)
 *Shop signs with Nüshu characters next to their Hanzi counterparts, photo taken by the author in Jiangyong city, 2019*
 
-Usage of calligraphic brushes to do Nüshu calligraphy is adopted since a few decades, to write poems, short words or sayings. Displayed like Chinese calligraphy, they show an even more appealing look, a look closer to the calligraphy in Hanzi appreciated and familiar to Chinese people or chinese speakers.
+Usage of calligraphic brushes to do Nüshu calligraphy is adopted since a few decades, to write poems, short words or sayings. Displayed like Chinese calligraphy, they show an even more appealing look, a look closer to the calligraphy in Hanzi appreciated and familiar to Chinese people or Chinese speakers.
 
 ![calligraphy in Nushu](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-presentation/09-calligraphy-nushu.jpg)
 *translation: 'all the happiness at home', by Zhou Shaolian 周少莲*
@@ -237,18 +237,18 @@ Men calligraphers, researchers and academics also started to write Nüshu, and t
 Digital presence of Nüshu script has been brought up to existence thanks to "Professor Liming Zhao* and her group of Nyushu rescuing project from Tsinghua University collected and organized around 1,000 original documents written in Nyushu in total and translated 640 readable files from them character by character into Chinese. The scanned pictures of these 640 files and their 220,000-character translation in Chinese are published as the 5-volume Chinese Nyushu Collection by Zhonghua Book Company in 2005." (extract from [Theory and Rules of Nushu Character Unification](https://www.unicode.org/L2/L2014/14244-n4639.pdf), Liming Zhao, Sept 23, 2014)
 In June 2017, the resulting list of 396 selected Nüshu glyphs have been added into Unicode 10.0 version ([range 1B170 to 1B2FF](https://www.unicode.org/charts/PDF/U1B170.pdf)). Since then, digitization attempts have started here and there by universities, academics and designers, but none of them have been fully finished and published yet… before Noto Sans Nüshu!
 
-> Pr. Zhao Liming (赵丽明博士) is professor in Chinese Linguistics specialised in South Western endangered languages at Tsinghua University in Beijing. Her research in Nüshu started over 30 years ago and is still going on, in collaboration with academics from many other international universities. 
+> Pr. Zhao Liming (赵丽明博士) is professor in Chinese Linguistics specialised in South Western endangered languages at Tsinghua University in Beijing. Her research in Nüshu started over 30 years ago and is still going on, in collaboration with academics from many other international universities.
 
 ![Zhao Liming](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-presentation/09-ZhaoLiming.jpg)
 *Professor Zhao Liming 赵丽明*
 
-Digital presence of Nüshu will definitely play a significant part in the preservation of the script for the future. Academics will be able to exchange their knowledge much easier through digital communication with consistent content and Nüshu will have a stronger and larger presence on the web and other media with people using or learning the script using the script on modern devices. 
+Digital presence of Nüshu will definitely play a significant part in the preservation of the script for the future. Academics will be able to exchange their knowledge much easier through digital communication with consistent content and Nüshu will have a stronger and larger presence on the web and other media with people using or learning the script using the script on modern devices.
 
-The only focus point to care about then would be to keep in a right balance both tradition and modernity to avoid any loss of its authenticity. Which will be quite challenging, as many people and companies see the touristic attractiveness rather than the cultural legacy… 
+The only focus point to care about then would be to keep in a right balance both tradition and modernity to avoid any loss of its authenticity. Which will be quite challenging, as many people and companies see the touristic attractiveness rather than the cultural legacy…
 
 
 
-### 10.Nüshu in Noto Sans family 
+### 10. Nüshu in Noto Sans family
 
 
 
@@ -261,7 +261,7 @@ My connection to the script is very thin: being Chinese (and a woman) doesn’t 
 
 
 
-### 11.Going there
+### 11. Going there
 There are unfortunately almost no English versions or translation as of now, but there is still possibility to reach a local English-speaking guide:
 * [Nüshu script Museum](https://baike.baidu.com/item/%E5%A5%B3%E4%B9%A6%E7%94%9F%E6%80%81%E5%8D%9A%E7%89%A9%E9%A6%86) (女书生态博物馆)
 * Visit [reportage](https://www.mafengwo.cn/i/8686022.html) of a Chinese tourism company
