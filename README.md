@@ -200,7 +200,7 @@ Between 1950 and 1980, Nüshu started to attract the interest of researchers in 
 At that time, women who learned and used Nüshu in the original way were already of very advanced age, and the research in the topic was crucial as the original knowledge was on the verge of disappearing. The last woman known to have learned and used Nushu in its traditional way, Yang Huanyi (阳焕宜) passed away in 2004 at the age of 98. That year marked the beginning of the post-Nüshu era (后女书时代). 
 
 ![Yang Huanyi portrait](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-presentation/08-YangHuanyi.jpg)
-*Portrait of Yang Huanyi 阳换宜, courtesy of Zhao Liming 赵丽明*
+*Portrait of Yang Huanyi 阳焕宜, courtesy of Zhao Liming 赵丽明*
 
 
 
