@@ -6,15 +6,7 @@
 
 font = Glyphs.font
 
-layers = []
-
 for g in font.glyphs:
-    if len(g.layers) > 1:
-        activeLayer = g.layers[0].layerId
-        print(activeLayer)
-        layersToDelete = []
-        for layer in g.layers:
-            if layer.layerId is not activeLayer:
-                layersToDelete.append(layer.layerId)
-        for id in layersToDelete:
-            del(g.layers[id])
+    for layer in list(g.layers):
+        if not layer.isMasterLayer:
+            del(g.layers[layer.layerId])
