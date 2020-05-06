@@ -1,8 +1,5 @@
 {
 .appVersion = "1286";
-DisplayStrings = (
-"/u1B22A/u1B23B/u1B24B/u1B268"
-);
 copyright = "Copyright 2020 Google Inc. All Rights Reserved.";
 customParameters = (
 {
@@ -52324,5 +52321,5 @@ manufacturer = "Lisa Huang";
 manufacturerURL = "http://www.google.com/get/noto/";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }
