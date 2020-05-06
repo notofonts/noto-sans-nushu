@@ -119,7 +119,7 @@ The elongated proportions of Nüshu characters is in itself a result of a women-
 Nüshu texts are set and read just like traditional Chinese: written from top to bottom, lines following from right to left. It can be seen on some texts that the reading direction happens to be characters from left to right, then aligned from top to bottom.
 
 ![Reading orders](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-presentation/04-reading-order.jpg)
-*left: anonymous writer, right: 秋夜小坐感 (Lodge in a Temple on the Hill for the Night - 夜宿山寺 by Li Bai 李白) written by Yang Huanyi 阳换宜 (1909–2004)*
+*left: anonymous writer, right: 秋夜小坐感 (Lodge in a Temple on the Hill for the Night - 夜宿山寺 by Li Bai 李白) written by Yang Huanyi 阳焕宜 (1909–2004)*
 
 These features of Nüshu characters give a text written in this script a surprisingly ‘feminine’ appearance, especially when the curves are delicately traced, sometimes exaggerated for an even more elegant feel when compared to squarish and blocky ‘masculine’ Hanzi characters (does a style of writing can bear femininity, masculinity or even neutrality would be an interesting topic of discussion…).
 
