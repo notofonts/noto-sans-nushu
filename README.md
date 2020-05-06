@@ -119,7 +119,7 @@ The elongated proportions of Nüshu characters is in itself a result of a women-
 Nüshu texts are set and read just like traditional Chinese: written from top to bottom, lines following from right to left. It can be seen on some texts that the reading direction happens to be characters from left to right, then aligned from top to bottom.
 
 ![Reading orders](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-presentation/04-reading-order.jpg)
-*left: anonymous writer, right: 秋夜小坐感 (Lodge in a Temple on the Hill for the Night - 夜宿山寺 by Li Bai 李白) written by Yang Huanyi 阳换宜 (1909–2004)*
+*left: anonymous writer, right: 秋夜小坐感 (Lodge in a Temple on the Hill for the Night - 夜宿山寺 by Li Bai 李白) written by Yang Huanyi 阳焕宜 (1909–2004)*
 
 These features of Nüshu characters give a text written in this script a surprisingly ‘feminine’ appearance, especially when the curves are delicately traced, sometimes exaggerated for an even more elegant feel when compared to squarish and blocky ‘masculine’ Hanzi characters (does a style of writing can bear femininity, masculinity or even neutrality would be an interesting topic of discussion…).
 
@@ -157,7 +157,7 @@ Many legends or stories about the first uses of Nüshu surround the script, but 
 * create songs, ballads and poems (Seven Words Verses - 七言韵文, similar to French Alexandrins), commonly on fans, to be shared and taught to others, sung during gatherings, transcribe popular Mandarin ones into Tuhua
 
 ![Seven words verse sample](https://github.com/LisaHuang2017/noto-sans-nushu/blob/master/images-presentation/06-seven-words-verses.jpg)
-*Gentle women (君子女), by He Yuejuan 何躍娟 (with translation in Hanzi in small)*
+*Gentle women (君子女), by He Yuejuan 何跃娟 (with translation in Hanzi in small)*
 
 * record festivities (weddings, ceremonies...) and daily facts
 * be also sewn on silk cloths as decorative items or cotton or silk belts (带子花) for newborns clothes, with characters for happiness and health as a lucky charm
@@ -272,7 +272,7 @@ There are unfortunately almost no English versions or translation as of now, but
 
 #### References
 * 女书诗文佳句 / 赵丽明主编 — 北京清华大学出版社，2019 (ISBN: 978-7-302-52810-4) (no English translation)
-* 君子女 / 卢池珠，何裕建， 何跃娟 — 名族出版社，2014 (ISBN: 978-7-105-13465-6) (no English translation)
+* 君子女 / 卢池珠，何裕建，何跃娟 — 名族出版社，2014 (ISBN: 978-7-105-13465-6) (no English translation)
 * [什么是女书：赵丽明 ⟪传奇女书⟫](http://www.360doc.com/content/16/1112/01/37001590_605778630.shtml), 2016 (no English translation)
 * [Nüshu: from tears to sunshine](https://en.unesco.org/courier/2018-1/nushu-tears-sunshine), by Cheng Xiaorong, 2018
 
