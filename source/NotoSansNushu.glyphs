@@ -1,5 +1,5 @@
 {
-.appVersion = "1312";
+.appVersion = "1342";
 copyright = "Copyright 2020 Google Inc. All Rights Reserved.";
 customParameters = (
 {
@@ -425,7 +425,7 @@ u1B2FB
 },
 {
 name = description;
-value = "Designed by Lisa Huang";
+value = "Designed and produced by Lisa Huang 黄丽莎";
 },
 {
 name = license;
@@ -433,7 +433,7 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 },
 {
 name = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://scripts.sil.org/OFL";
 },
 {
 name = trademark;
@@ -441,7 +441,7 @@ value = "Noto is a trademark of Google Inc.";
 },
 {
 name = versionString;
-value = "Version 1.000";
+value = "Version 1.002";
 },
 {
 name = fsType;
@@ -473,8 +473,8 @@ value = 1;
 }
 );
 date = "2020-04-15 14:14:32 +0000";
-designer = "Lisa Huang";
-designerURL = "http://www.lisahuang.work";
+designer = "Lisa Huang 黄丽莎";
+designerURL = "https://www.lisahuang.work/";
 familyName = "Noto Sans Nushu";
 featurePrefixes = (
 {
@@ -52296,9 +52296,9 @@ instanceInterpolations = {
 name = Regular;
 }
 );
-manufacturer = "Lisa Huang";
-manufacturerURL = "http://www.google.com/get/noto/";
+manufacturer = "Lisa Huang 黄丽莎";
+manufacturerURL = "https://github.com/notofonts/noto-sans-nushu";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 2;
 }
