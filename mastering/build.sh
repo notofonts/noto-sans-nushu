@@ -34,6 +34,9 @@ mv ${output/".ttf"/".ttf.fix"} $output
 gftools fix-nonhinting $output $output
 rm ${output/".ttf"/"-backup-fonttools-prep-gasp.ttf"}
 
+# fix name 4, matching it to name 1 for this single-style font
+python mastering/fix-name_id-4.py fonts/NotoSansNushu-Regular.ttf
+
 # ------------------------------------------------------
 # copy font to web test
 
