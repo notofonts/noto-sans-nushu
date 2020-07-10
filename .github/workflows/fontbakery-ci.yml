@@ -1,16 +1,17 @@
-# This workflow will install Python dependencies, run tests and lint with a single version of Python
-# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+# This workflow will install and run the googlefonts/fontbakery QA tool on font build artifacts
+# in the build workflow
 
-name: Python application
+name: Font Bakery CI
 
 on:
-  push:
-    branches: [master]
-    paths: 
-      - 'sources/**'
+    pull_request:
+        paths: 
+          - 'sources/**'
+          - 'fonts/**.ttf'
+          - 'fonts/**.otf'
 
 jobs:
-  build:
+  fontbakery:
 
     runs-on: ubuntu-latest
 
@@ -19,13 +20,6 @@ jobs:
       uses: actions/setup-python@v1
       with:
         python-version: 3.8
-    - name: Lint with flake8
-      run: |
-        pip install flake8
-        # stop the build if there are Python syntax errors or undefined names
-        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
-        # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
-        flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Clone build folder
       uses: actions/checkout@v2
       with:
@@ -63,11 +57,3 @@ jobs:
         args: "-x monospace -x fontbakery_version -x dsig --loglevel WARN"  # optional additional args to subcmd
         path: "main/fonts/ttf/unhinted/variable_ttf/*.ttf"
         version: "latest"  # optional, latest PyPI release is default
-    - name: Commit and Push
-      run: |
-        cd "$GITHUB_WORKSPACE"/main
-        git config --local user.email "action@github.com"
-        git config --local user.name "Github Action"
-        git add "$GITHUB_WORKSPACE"/main/fonts
-        git commit -m "CI Automatic Fonts Build"
-        git push
