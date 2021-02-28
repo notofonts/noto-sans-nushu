@@ -5,7 +5,7 @@ name: Python application
 
 on:
   push:
-    branches: [master]
+    branches: [main]
     paths: 
       - 'sources/**'
 
