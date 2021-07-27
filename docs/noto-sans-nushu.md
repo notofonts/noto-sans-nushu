@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Noto Sans Nushu and the Nüshu script"
+---
+
+
 # About Nüshu script and Noto Sans Nüshu
 
 ![Gao YinXian's handwriting](https://github.com/LisaHuang2017/noto-sans-nushu/blob/main/images-presentation/00-GaoYinXian-handwriting.jpg)

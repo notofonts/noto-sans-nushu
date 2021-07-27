@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Noto Sans Nushu process"
+---
+
 Noto Sans Nüshu - process and progress
 ======================================
 
