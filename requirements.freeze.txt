@@ -30,7 +30,7 @@ lxml==4.6.5
 MarkupSafe==1.1.1
 opentype-sanitizer==8.0.0.post2
 Pillow==9.0.1
-protobuf==3.11.3
+protobuf==3.15.0
 pyclipper==1.1.0.post3
 PyGithub==1.47
 PyJWT==1.7.1
